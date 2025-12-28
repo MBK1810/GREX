@@ -1,0 +1,5 @@
+{
+  "name": "GREX - Resume Authenticity Detector",
+  "description": "GREX uses advanced AI-powered system that analyzes resumes to detect exaggerated or fake technical skills using Gemini 3's deep reasoning. It verifies claims through adaptive technical questioning and generates detailed authenticity reports.",
+  "requestFramePermissions": []
+}
